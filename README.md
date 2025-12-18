@@ -18,7 +18,7 @@ I love coding, open source, and building things that make life easier.
 
 **💻 Languages** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,py,go,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,go,html,css,js,tailwind css,ts" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@ I love coding, open source, and building things that make life easier.
 
 **🗄️ Backend & Database** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
 </a>
 
 <br/>
