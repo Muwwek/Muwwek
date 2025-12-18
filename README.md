@@ -1,38 +1,32 @@
 <div align="center">
 
-# Hi there! I'm [ชื่อของคุณ] 🚀
+# Hi there, I'm Mew! 👋
 
-### A passionate developer from Thailand 🇹🇭
+### A passionate Full Stack Developer 🚀
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50">
+I love building things for web, mobile, and backend systems.
 
 ---
-
-<p align="left">
-I love coding, open source, and building things that make life easier.
-</p>
-
-</div>
 
 ### 🛠 Tech Stack
 
 **💻 Languages** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,py,go,html,css,js,tailwindcss,ts" />
+  <img src="https://skillicons.dev/icons?i=c,java,py" />
 </a>
 
 <br/>
 
 **🎨 Frontend & Design** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,figma,html,css,tailwindcss,tsx" />
 </a>
 
 <br/>
 
 **🗄️ Backend & Database** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,go" />
 </a>
 
 <br/>
@@ -44,26 +38,10 @@ I love coding, open source, and building things that make life easier.
 
 <br/>
 
-**🚀 Special Ability** <br/>
-<img src="https://img.shields.io/badge/Antigravity-Enabled-9cf?style=flat&logo=python" alt="Antigravity" />
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muwwek&theme=dracula&custom_title=Use%20for%20development&langs_count=10" alt="Top Langs" />
+
 </div>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
