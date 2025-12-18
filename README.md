@@ -19,7 +19,7 @@ I love building things for web, mobile, and backend systems.
 
 **🎨 Frontend & Design** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,figma,html,css,tailwindcss,tsx" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,figma,html,css,tailwindcss,ts,js" />
 </a>
 
 <br/>
