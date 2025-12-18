@@ -38,7 +38,7 @@ my skills to grow as a Full Stack Developer.
 
 ### 🛢️ Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </a>
 
 ---
