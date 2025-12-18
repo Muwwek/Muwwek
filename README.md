@@ -17,7 +17,7 @@ my skills to grow as a Full Stack Developer.
 
 ### 🎨 Frontend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss" />
 </a>
 
 ---
@@ -31,7 +31,7 @@ my skills to grow as a Full Stack Developer.
 
 ### 🗄️ Backend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </a>
 
 ---
@@ -45,7 +45,7 @@ my skills to grow as a Full Stack Developer.
 
 ### 💻 Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,py" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,ts,go" />
 </a>
 
 ---
