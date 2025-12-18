@@ -38,7 +38,7 @@ improving my development skills.
 
 ### 🛢️ Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,msql,mongodb" />
 </a>
 
 ---
@@ -66,23 +66,8 @@ improving my development skills.
 
 ## 📊 GitHub Statistics
 
-### 🔥 GitHub Overview
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Muwwek&show_icons=true&theme=dracula&hide_border=true"
-  alt="GitHub Stats"
-/>
 
----
-
-### ⚡ GitHub Streak
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Muwwek&theme=dracula&hide_border=true"
-  alt="GitHub Streak"
-/>
-
----
-
-### 🧩 Most Used Languages
+### 🔥 Most Used Languages
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muwwek&layout=compact&langs_count=10&theme=dracula&hide_border=true"
   alt="Top Languages"
