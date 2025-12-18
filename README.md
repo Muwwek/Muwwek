@@ -38,7 +38,7 @@ improving my development skills.
 
 ### 🛢️ Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,msql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </a>
 
 ---
