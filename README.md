@@ -17,7 +17,7 @@ my skills to grow as a Full Stack Developer.
 
 ### 🎨 Frontend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,reactnative,android" />
 </a>
 
 ---
