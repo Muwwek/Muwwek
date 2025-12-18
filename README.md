@@ -1,47 +1,56 @@
-<div align="center">
+<!-- ===================== PROFILE HEADER ===================== -->
 
-# Hi there, I'm Mew! 👋
+# 👋 Hi there, I'm Mew!
 
-### A passionate Full Stack Developer 🚀
+### 🚀 A passionate Full Stack Developer
 
-I love building things for web, mobile, and backend systems.
+I love building things for **web**, **mobile**, and **backend systems**.  
+Always learning, always improving.
 
 ---
 
-### 🛠 Tech Stack
+<!-- ===================== TECH STACK ===================== -->
 
-**💻 Languages** <br/>
+## 🛠 Tech Stack
+
+### 💻 Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,java,py" />
 </a>
 
-<br/>
+---
 
-**🎨 Frontend & Design** <br/>
+### 🎨 Frontend & Design
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,figma,html,css,tailwindcss,ts,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss,ts,js,figma" />
 </a>
 
-<br/>
+---
 
-**🗄️ Backend & Database** <br/>
+### 🗄️ Backend & Database
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,go" />
 </a>
 
-<br/>
+---
 
-**⚙️ Tools & DevOps** <br/>
+### ⚙️ Tools & DevOps
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman" />
 </a>
 
-<br/>
-
 ---
 
-### 📊 GitHub Status
+<!-- ===================== DIVIDER ===================== -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muwwek&theme=dracula&custom_title=Use%20for%20development&langs_count=10" alt="Top Langs" />
+<hr style="border: 1px solid #444;" />
 
-</div>
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Stats
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muwwek&theme=dracula&layout=compact&langs_count=10"
+  alt="Top Languages"
+/>
+
