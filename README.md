@@ -1,11 +1,13 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ===================== PROFILE ===================== -->
 
-# 👋 Hi there, I'm Mew!
+# 👋 Hi, I'm Mew
 
-### 🚀 A passionate Full Stack Developer
+### Full Stack Developer | Web • Mobile • Backend
 
-I love building things for **web**, **mobile**, and **backend systems**.  
-Always learning, always improving.
+I am a passionate Full Stack Developer with a strong interest in building  
+scalable, user-friendly, and efficient applications across web, mobile,  
+and backend platforms. I enjoy learning new technologies and continuously  
+improving my development skills.
 
 ---
 
@@ -13,44 +15,75 @@ Always learning, always improving.
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 🎨 Frontend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss" />
+</a>
+
+---
+
+### 🧩 UI / UX & Design
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</a>
+
+---
+
+### 🗄️ Backend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go" />
+</a>
+
+---
+
+### 🛢️ Database
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+---
+
+### 💻 Programming Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,java,py" />
 </a>
 
 ---
 
-### 🎨 Frontend & Design
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss,ts,js,figma" />
-</a>
-
----
-
-### 🗄️ Backend & Database
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,go" />
-</a>
-
----
-
-### ⚙️ Tools & DevOps
+### ⚙️ Tools & Version Control
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman" />
 </a>
+
 
 ---
 
 <!-- ===================== DIVIDER ===================== -->
 
-<hr style="border: 1px solid #444;" />
+<hr style="border: 1px solid #3f3f46;" />
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muwwek&theme=dracula&layout=compact&langs_count=10"
-  alt="Top Languages"
+### 🔥 GitHub Overview
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Muwwek&show_icons=true&theme=dracula&hide_border=true"
+  alt="GitHub Stats"
 />
 
+---
+
+### ⚡ GitHub Streak
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Muwwek&theme=dracula&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+---
+
+### 🧩 Most Used Languages
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muwwek&layout=compact&langs_count=10&theme=dracula&hide_border=true"
+  alt="Top Languages"
+/>
