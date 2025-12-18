@@ -1,13 +1,13 @@
 <!-- ===================== PROFILE ===================== -->
 
-# 👋 Hi, I'm Mew
+# 👨‍💻 Hi, I'm Adisak Suethong  
+### Full Stack Developer 
 
-### Full Stack Developer | Web • Mobile • Backend
+I have a strong passion for exploring emerging technologies that shape the  
+digital world. I aim to develop end-to-end applications that are scalable,  
+efficient, and user-focused, and I am committed to continuously improving  
+my skills to grow as a Full Stack Developer.
 
-I am a passionate Full Stack Developer with a strong interest in building  
-scalable, user-friendly, and efficient applications across web, mobile,  
-and backend platforms. I enjoy learning new technologies and continuously  
-improving my development skills.
 
 ---
 
