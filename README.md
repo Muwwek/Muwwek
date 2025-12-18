@@ -18,7 +18,7 @@ I love coding, open source, and building things that make life easier.
 
 **💻 Languages** <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,py,go,html,css,js,tailwind css,ts" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,go,html,css,js,tailwindcss,ts" />
 </a>
 
 <br/>
