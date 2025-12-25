@@ -68,8 +68,5 @@ my skills to grow as a Full Stack Developer.
 
 
 ### 🔥 Most Used Languages
-<img
-  src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Muwwek=USERNAME&layout=compact)
-"
-  alt="Top Languages" 
-/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muwwek&layout=compact)
+
