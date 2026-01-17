@@ -45,7 +45,7 @@ my skills to grow as a Full Stack Developer.
 
 ### 💻 Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,py,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,ts" />
 </a>
 
 ---
